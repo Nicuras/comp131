@@ -65,13 +65,14 @@ h1 {
 .gallery__photo--p6 {
   top: 275px;
   left: 0%;
-
+z-index: 8;
 }
 
 
 .gallery__photo--7 {
   top: 275px;
   right: 0%;
+  
 }
 
 
