@@ -64,8 +64,7 @@ h1 {
 
 .gallery__photo--p6 {
   top: 80px;
-  right: 100%;
-  z-index: 4;
+  left: 100%;
 }
 
 .gallery__photo:hover {
