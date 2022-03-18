@@ -64,24 +64,24 @@ h1 {
 
 .gallery__photo--p6 {
   top: 275px;
-  left: 20%;
+  left: 0%;
 }
 
 
 .gallery__photo--7 {
   top: 275px;
-  right: 40%;
+  left: 20%;
 
 }
 
 
 .gallery__photo--8 {
-  top: 275px;
-  left: 60%;
+  top: 300px;
+  left: %;
 }
 
 .gallery__photo--9 {
-  top: 275px;
+  top: 300px;
   left: 80%;
 }
 
