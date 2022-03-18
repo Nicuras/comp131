@@ -20,7 +20,7 @@ h1 {
   width: 1000px;
   margin: 0 auto;
 
-  position: relative;
+  position: absolute;
 }
 
 .gallery__photo {
