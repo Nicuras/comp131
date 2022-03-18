@@ -62,6 +62,11 @@ h1 {
   z-index: 2;
 }
 
+.gallery__photo--p6 {
+  top: 80px;
+  left: 60%;
+}
+
 .gallery__photo:hover {
   outline: 15px solid #14addc;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
