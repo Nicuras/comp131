@@ -84,6 +84,7 @@ h1 {
 .gallery__photo--9 {
   top: 275px;
   left:0%;
+  position: relative;
 }
 
 .gallery__photo:hover {
