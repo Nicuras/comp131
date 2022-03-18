@@ -82,9 +82,9 @@ h1 {
 }
 
 .gallery__photo--9 {
-  top: 275px;
-  left:0%;
-  z-index: 2;
+  top: 300px;
+  left:60%;
+  z-index: 5;
   position: relative;
 }
 
