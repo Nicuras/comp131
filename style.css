@@ -23,6 +23,12 @@ color: #E0FFFF;
 
 }
 
+
+h3 {
+text-align: justify;
+color: #E0FFFF;
+}
+
 .gallery {
   width: 1000px;
   margin: 0 auto;
